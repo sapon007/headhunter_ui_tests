@@ -1,7 +1,5 @@
 # Пример UI тестов для сайта hh.ru
 
----
-
 Стек:  
 Java, Gradle, JUnit5, Selenide, Allure Reports
 
