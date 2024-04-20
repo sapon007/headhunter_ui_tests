@@ -19,5 +19,5 @@ Cтек:
 ---
 
 Пример отчета:  
-<img src="screenshots/allure_report2.png" width="1000px" height="350px">
-<img src="screenshots/allure_report1.png" width="1000px" height="350px">
+<img src="screenshots/allure_report2.png" width="1000px" height="400px">
+<img src="screenshots/allure_report1.png" width="1000px" height="4000px">
