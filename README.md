@@ -1,6 +1,6 @@
 # Пример UI тестов для сайта hh.ru
 
-Стек:  
+**Стек:  **
 Java, Gradle, JUnit5, Selenide, Allure Reports
 
 ---
@@ -13,5 +13,5 @@ Java, Gradle, JUnit5, Selenide, Allure Reports
 ---
 
 Пример отчета:  
-<img src="screenshots/allure_report2.png" width="900px" height="400px">
-<img src="screenshots/allure_report1.png" width="900px" height="400px">
+<img src="screenshots/allure_report2.png" width="1000px" height="400px">
+<img src="screenshots/allure_report1.png" width="1000px" height="400px">
