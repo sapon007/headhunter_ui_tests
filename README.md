@@ -15,5 +15,5 @@ Java, Gradle, JUnit5, Selenide, Allure Reports
 ---
 
 Пример отчета:  
-<img src="screenshots/allure_report2.png" width="800px" height="400px">
-<img src="screenshots/allure_report1.png" width="800px" height="400px">
+<img src="screenshots/allure_report2.png" width="900px" height="400px">
+<img src="screenshots/allure_report1.png" width="900px" height="400px">
