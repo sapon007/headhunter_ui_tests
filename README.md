@@ -8,6 +8,7 @@ Cтек:
 <a href="https://ru.selenide.org" target="_blank"><img src="https://github.com/sapon007/sapon007/raw/main/icons/Selenide.svg" width="40px" height="40px" title="Selenide" alt="Selenide"></a>
 <a href="https://allurereport.org" target="_blank"><img src="https://github.com/sapon007/sapon007/raw/main/icons/Allure_Report.svg" width="40px" height="40px" title="Allure Report" alt="Allure Report"></a>
 </p>
+
 ---
 
 Реализовано несколько тестов с использованием паттерна PageObject:
