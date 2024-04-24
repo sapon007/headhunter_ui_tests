@@ -17,7 +17,7 @@ public class LoginTests extends BaseTest {
     public void incorrectLogin() {
         mainPage
                 .openPage()
-                .clickOtLoginBtn();
+                .clickOnLoginBtn();
         loginPage
                 .setEmailOrMobile("123")
                 .clickOnContinueBtn()

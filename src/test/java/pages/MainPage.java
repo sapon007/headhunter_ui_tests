@@ -40,7 +40,7 @@ public class MainPage {
     }
 
     @Step("Кликнуть на кнопку \"Войти\"")
-    public void clickOtLoginBtn() {
+    public void clickOnLoginBtn() {
         loginBtn.click();
     }
 }
